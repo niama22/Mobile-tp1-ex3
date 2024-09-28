@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- État lorsque la CheckBox est cochée -->
+    <item android:state_checked="true" android:color="#4CAF50"/> <!-- Vert (#4CAF50) -->
+    <!-- État lorsque la CheckBox est décochée -->
+    <item android:state_checked="false" android:color="#B0BEC5"/> <!-- Gris clair par défaut -->
+</selector>
