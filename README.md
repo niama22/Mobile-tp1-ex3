@@ -16,8 +16,6 @@ Cette application Android permet aux utilisateurs de passer un quiz avec des que
 - ConstraintLayout
 
 ## Démonstration
-Vous pouvez consulter la démonstration de l'application [ici](https://github.com/user-attachments/assets/9ce0ab10-601f-423c-b7f2-64df7546dd3d
-
-).
+Vous pouvez consulter la démonstration de l'application [ici](https://github.com/user-attachments/assets/9ce0ab10-601f-423c-b7f2-64df7546dd3d).
 
 
